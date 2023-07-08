@@ -7,5 +7,6 @@
 ### it has darck mode options
 این پروژه امکان دکمه ی دارک مود هم دارد 
 #### this is pictures run project
-
+این تصویری از اجرای پروژه است
 ![Resume](img/resume.png)
+![Resome](img/resome.png)
